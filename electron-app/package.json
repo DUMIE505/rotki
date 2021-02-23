@@ -23,7 +23,7 @@
     "chart.js": "^2.9.3",
     "cryptocurrency-icons": "0.16.1",
     "font-awesome": "4.7.0",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "moment": "^2.24.0",
     "roboto-fontface": "*",
     "tasklist": "4.0.1",
